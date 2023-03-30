@@ -1,0 +1,20 @@
+.product {
+  border: 2px solid salmon;
+  text-align: center;
+  margin: 10px;
+  border-radius: 10px;
+  color: lawngreen;
+}
+.product img {
+  height: 286px;
+  width: 286px;
+  border-radius: 10px;
+}
+.product button {
+  width: 100%;
+  background-color: #ffe0b3;
+  color: black;
+}
+.product button:hover {
+  background-color: orange;
+}
